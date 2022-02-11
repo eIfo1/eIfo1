@@ -1,9 +1,6 @@
-- 👋 Hi, I’m ugly
-- 👀 I’m interested in: minicrawt obv
-- 🌱 I’m currently learning: java, c#, c++
-- 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: @elfofthestorm on Twitter
+![Github Pogger Points](https://github-readme-stats.vercel.app/api?username=eifo1&show_icons=true&theme=radical)
 
+[![rbx clone card](https://github-readme-stats.vercel.app/api/pin/?username=eifo1&repo=php-roblox-clone&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![neocities](https://github-readme-stats.vercel.app/api/pin/?username=eifo1&repo=elfo.neocities.org&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-
-pogger!
+Welcome to my profile!
